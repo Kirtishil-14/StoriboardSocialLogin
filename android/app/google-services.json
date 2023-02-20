@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "834363926742",
+    "project_id": "storiboard-mobileapp",
+    "storage_bucket": "storiboard-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834363926742:android:888d853a10997c28c04177",
+        "android_client_info": {
+          "package_name": "com.storiboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834363926742-uvd5d6e6h670k3fir6c37bc4bo7jenl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.storiboard",
+            "certificate_hash": "879dffdad80c90cf639414452ee462c4d51ebe0b"
+          }
+        },
+        {
+          "client_id": "834363926742-1kb16k7putiqng9knpo2gkecg4k6mtk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxX-uRP1IzWdVw8UjpFDGorXUC6Y4Xto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834363926742-1kb16k7putiqng9knpo2gkecg4k6mtk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834363926742-9flavtn18201sipr1b8rildrckkvm6ra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.story.boardapp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834363926742:android:4c27ac7a725b946dc04177",
+        "android_client_info": {
+          "package_name": "com.storiboardsociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834363926742-1kb16k7putiqng9knpo2gkecg4k6mtk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxX-uRP1IzWdVw8UjpFDGorXUC6Y4Xto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834363926742-1kb16k7putiqng9knpo2gkecg4k6mtk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834363926742-9flavtn18201sipr1b8rildrckkvm6ra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.story.boardapp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
